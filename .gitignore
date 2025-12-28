@@ -1,0 +1,22 @@
+# Build artifacts
+ac-control/code/Objects/
+ac-control/code/Listings/
+*.obj
+*.lnp
+*.lst
+*.m51
+*.map
+*.__i
+*.OutJob
+ac-control/code/ac-control.build_log.htm
+
+# Keil/uVision user settings
+ac-control/code/*.uvopt*
+ac-control/code/*.uvgui*
+
+# Proteus/Altium generated files
+ac-control/ac-control.pdsprj.YOU14X.28990.workspace
+ac-control/Project Backups/
+__Previews/
+History/
+Project Logs for ac-control/
