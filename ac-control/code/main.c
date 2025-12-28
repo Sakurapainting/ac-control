@@ -121,7 +121,6 @@ void Temp_Humi_Ctrl(void)
 	else               MotorC_OFF();
 }
 
-/*********************主函数 程序入口*********************/
 void main(void)
 {
 	Motor_Init();  // 上电初始化所有电机停止
